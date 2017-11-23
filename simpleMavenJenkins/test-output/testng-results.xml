@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="29014" started-at="2017-11-23T00:29:46Z" finished-at="2017-11-23T00:30:15Z">
+  <suite name="Default suite" duration-ms="7428" started-at="2017-11-23T02:53:22Z" finished-at="2017-11-23T02:53:30Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="29014" started-at="2017-11-23T00:29:46Z" finished-at="2017-11-23T00:30:15Z">
+    <test name="Default test" duration-ms="7428" started-at="2017-11-23T02:53:22Z" finished-at="2017-11-23T02:53:30Z">
       <class name="testcases.testcase1">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.testcase1@cb5822]" name="setUp" is-config="true" duration-ms="22059" started-at="2017-11-22T19:29:46Z" finished-at="2017-11-22T19:30:08Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.testcase1@cb5822]" name="setUp" is-config="true" duration-ms="4368" started-at="2017-11-22T21:53:22Z" finished-at="2017-11-22T21:53:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="validateHomePageTitle()[pri:1, instance:testcases.testcase1@cb5822]" name="validateHomePageTitle" duration-ms="4344" started-at="2017-11-22T19:30:08Z" finished-at="2017-11-22T19:30:12Z">
+        <test-method status="PASS" signature="validateHomePageTitle()[pri:1, instance:testcases.testcase1@cb5822]" name="validateHomePageTitle" duration-ms="862" started-at="2017-11-22T21:53:27Z" finished-at="2017-11-22T21:53:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateHomePageTitle -->
-        <test-method status="PASS" signature="login()[pri:2, instance:testcases.testcase1@cb5822]" name="login" duration-ms="1835" started-at="2017-11-22T19:30:12Z" finished-at="2017-11-22T19:30:14Z">
+        <test-method status="PASS" signature="login()[pri:2, instance:testcases.testcase1@cb5822]" name="login" duration-ms="1526" started-at="2017-11-22T21:53:28Z" finished-at="2017-11-22T21:53:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.testcase1@cb5822]" name="tearDown" is-config="true" duration-ms="718" started-at="2017-11-22T19:30:14Z" finished-at="2017-11-22T19:30:15Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.testcase1@cb5822]" name="tearDown" is-config="true" duration-ms="641" started-at="2017-11-22T21:53:29Z" finished-at="2017-11-22T21:53:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
