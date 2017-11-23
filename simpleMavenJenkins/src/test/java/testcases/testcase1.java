@@ -37,7 +37,7 @@ public class testcase1 {
 		driver.findElement(By.name("submit")).click();
 		System.out.println(driver.getTitle());
 		String actual=driver.findElement(By.xpath("//a[@href='/bank/redirect.html?url=account-summary.html']")).getText();
-		Assert.assertEquals("Account Summar", actual);
+		Assert.assertEquals("Account Summary", actual);
 		}
 	@AfterTest
 	public void tearDown() {
