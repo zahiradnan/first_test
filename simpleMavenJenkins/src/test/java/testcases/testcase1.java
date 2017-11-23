@@ -15,7 +15,7 @@ public class testcase1 {
 	
 	@BeforeTest
 	public void setUp() {
-		System.out.println("this is test");
+		System.out.println("this is test test 2");
 		System.setProperty("webdriver.chrome.driver", "c:\\driver\\chromedriver.exe");
 		//System.setProperty("webdriver.gecko.driver","C:\\Users\\aDee\\Desktop\\Sel\\geckodriver-v0.19.1-win64\\geckodriver.exe");
 		//driver=new FirefoxDriver();
